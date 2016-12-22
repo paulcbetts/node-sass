@@ -1,5 +1,5 @@
 {
-  "name": "node-sass",
+  "name": "@paulcbetts/node-sass",
   "version": "4.1.1",
   "libsass": "3.4.0",
   "description": "Wrapper around libsass",
